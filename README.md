@@ -237,4 +237,4 @@ This repository serves as the official landing page for Startrails. The software
 **Get the most recent version of Startrails today!**
 
 ---
-**Last updated:** 2026-10-08 17:42:56 UTC
+**Last updated:** 2026-10-08 22:55:08 UTC
